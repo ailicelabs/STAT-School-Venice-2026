@@ -1,0 +1,5 @@
+title: STAT PhD School — AI in Research
+description: Artificial intelligence in scientific research — opportunities, applications and responsible use.
+markdown: kramdown
+exclude:
+  - README.md
