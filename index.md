@@ -44,7 +44,7 @@ Times, session titles and programme details are subject to change. Titles marked
 | Time | Activity | Instructor/Speaker | Description |
 | :--- | :--- | :--- | :--- |
 | 09:00–09:15 | Recap and introduction | — | Summary of Day 1, review of the cases selected by the groups, and presentation of the day’s operational objectives. |
-| 09:15–10:15 | TBD | **Elena Del Pup**<br>Bioinformatics PhD Candidate, Wageningen University & Research | Title: (to be defined)<br><br>45-minute talk + 15-minute Q&A |
+| 09:15–10:15 | Applied AI and Bioinformatics | **Elena Del Pup**<br>Bioinformatics PhD Candidate, Wageningen University & Research | Title: *Unlocking the Plant Bioeconomy: Data-Driven Discovery of Plant Natural Products*<br><br>45-minute talk + 15-minute Q&A |
 | 10:15–11:15 | Exercise 1 – Responsible use of LLMs | Facilitator(s) | Guided activity on prompting, response verification, limitations, and potential applications in research. Groups work on the case selected on Day 1 and produce an initial output draft to verify and improve. Duration: 60 minutes. |
 | 11:15–11:35 | Coffee break | — | Break and networking. |
 | 11:35–12:35 | Responsible trust in AI | **Alessio Tacca, PhD**<br>Epistemologist. Postdoctoral researcher and member of the ODD research team at Università San Raffaele, Milan. | Title: *Can we trust AI in science? Evidence, fallibility and responsibility*<br><br>45-minute talk + 15-minute Q&A |
