@@ -78,6 +78,8 @@ The School combines expert talks, practical group activities and opportunities t
 
 **Poster preparation.** Each participant is asked to bring a printed poster presenting their research project, including work in progress. The poster should clearly introduce the research question, relevant background, methods, available results or expected outcomes, and open challenges. Please make it accessible to an interdisciplinary audience and highlight any current or potential connections with artificial intelligence, where relevant. Poster dimensions and printing requirements will be communicated separately.
 
+**Poster submission.** Please upload a PDF version of your poster by **22 November 2026**, using the [SUBMISSION FORM](https://forms.gle/e4X9AHnFJ9zX5DHe7). Name your file **Surname_Name_Poster.pdf**. Submitted posters will be reviewed by the School’s Scientific Committee to select three participants for the poster lightning talks. Selected presenters will be notified before the School.
+
 **Poster setup and discussion.** Please arrive in time to register and set up your poster during the registration slot on Day 1. Participants should be available at their posters during the Day 2 poster session to discuss their work and receive feedback.
 
 **Selected poster talks.** Three participants, selected by the School’s Scientific Committee, will be invited to give a 5-minute presentation followed by 3 minutes of questions and discussion. Selected presenters will receive instructions on presentation format and submission in advance.
