@@ -31,6 +31,7 @@ description: PhD in Science and Technology for Advanced Therapies (STAT) MD-Work
   <ul>
     <li><a href="#workshop">The Workshop</a></li>
     <li><a href="#programme">Programme</a></li>
+    <li><a href="#ai-canvas">AI Canvas</a></li>
     <li><a href="#committee">Scientific Committee</a></li>
     <li><a href="#speakers">Speakers</a></li>
     <li><a href="#information">Information</a></li>
@@ -117,6 +118,26 @@ description: PhD in Science and Technology for Advanced Therapies (STAT) MD-Work
 <tr><td>12:30–12:40</td><td><span class="act">MD-Workshop closing</span></td><td>—</td><td>Overall summary of results, take-home messages, final feedback, and pointers to resources and follow-up activities.</td></tr>
 </tbody></table></div>
 </div>
+</section>
+
+<section id="ai-canvas">
+<h2>AI Canvas</h2>
+<p class="sub"><b>Student materials</b>group activity and final pitches</p>
+<p class="lead">In groups of about five, you will turn a real research problem into a one-page proposal for using AI and present it in a short pitch. Nothing has to be built or coded: the aim is to think clearly about the problem, the data and how you would know the idea works.</p>
+<div class="steps">
+<div><span class="lbl">Before the Workshop</span><p>Think of a possible case from your own research.</p></div>
+<div><span class="lbl">Day 1 · 17:50–18:10</span><p>Form your group, choose one case and write an initial question.</p></div>
+<div><span class="lbl">Day 2 · 15:20–16:10</span><p>Fill in the nine blocks of the AI Canvas and prepare your pitch.</p></div>
+<div><span class="lbl">Day 2 · 16:10–16:55</span><p>Present your canvas: 4 minutes, followed by 2 minutes of questions.</p></div>
+</div>
+<h3 style="margin-top:30px">Download</h3>
+<div class="downloads">
+<a class="dl" href="assets/ai-canvas/AI-Canvas_Student-Guide-and-Worksheet.pdf"><span class="lbl">PDF · 4 pages</span><strong>Student guide and worksheet</strong><span>How the activity works, how to fill in each block, a worked example and the canvas to complete.</span></a>
+<a class="dl" href="assets/ai-canvas/AI-Canvas_A3-Printable.pdf"><span class="lbl">PDF · A3</span><strong>Printable AI Canvas</strong><span>The nine-block canvas in A3 format, to print and fill in by hand.</span></a>
+<a class="dl" href="assets/ai-canvas/AI-Canvas_Presentation-Template.pptx"><span class="lbl">PowerPoint · 10 slides</span><strong>Presentation template</strong><span>The slides for your final pitch, with speaker notes. Also opens in Keynote and Google Slides.</span></a>
+<a class="dl" href="assets/ai-canvas/AI-Canvas_Presentation-Template.pdf"><span class="lbl">PDF · 10 slides</span><strong>Presentation template (preview)</strong><span>A read-only version of the template.</span></a>
+</div>
+<p class="note"><b>Remember</b>Never enter personal, sensitive, confidential or unpublished data into online AI tools. Bring your laptop (with charger).</p>
 </section>
 
 <section id="committee">
