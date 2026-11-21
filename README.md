@@ -1,4 +1,4 @@
-# STAT MD-Workshop 2026 | Science, Rewired
+# STAT MD-Workshop 2026 — Science, Rewired
 
 Programme and participant information for the PhD in Science and Technology for Advanced Therapies (STAT) MD-Workshop, 2–4 December 2026, Venice International University.
 
